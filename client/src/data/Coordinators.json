@@ -1,0 +1,29 @@
+[
+    {
+        "name":"Aida Abiad",
+        "collegeName":"Eindhoven University of Technology",
+        "conferenceTitle":"(Co-Convenor)",
+        "country":"The Netherlands"
+    },
+    {
+        "name":"R. S. Lekshmi",
+        "collegeName":"The LNM Institue Of Technology",
+        "conferenceTitle":"(Co-Convenor)",
+        "country":"India"
+    },
+    {
+        "name":"Rishi Ranjan Singh",
+        "collegeName":"Indian Institute of Technology Bhilai",
+        "country":"India"
+    },
+    {
+        "name":"Florent Foucaud",
+        "collegeName":"LIMOS - Université Clermont Auvergne",
+        "country":"France"
+    },
+    {
+        "name":"S. Jeevadoss",
+        "collegeName":"The LNM Institue Of Technology",
+        "country":"India"
+    }
+]

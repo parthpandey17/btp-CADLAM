@@ -1,0 +1,86 @@
+[
+  {
+    "preConferenceSchoolEventName": "Online registration for Indo-Spanish CALDAM Pre-Conference School starts",
+    "isOpen": true,
+    "startMonth": "Sep",
+    "StartDate": "1st",
+    "year": "2024",
+    "navigateTo": "/pre-conference-school"
+  },
+  {
+    "preConferenceSchoolEventName": "Last date for Paper Submission",
+    "isOpen": true,
+    "startMonth": "Sep",
+    "StartDate": "27th",
+    "year": "2024",
+    "navigateTo": "/call-for-papers"
+  },
+  {
+    "preConferenceSchoolEventName": "Last date for Revision of Submission by Author(s)",
+    "isOpen": true,
+    "startMonth": "Oct",
+    "StartDate": "2nd",
+    "year": "2024",
+    "navigateTo": "/call-for-papers"
+  },
+  {
+    "preConferenceSchoolEventName": "Online registration for Indo-Spanish CALDAM Pre-Conference School ends",
+    "isOpen": true,
+    "startMonth": "Nov",
+    "StartDate": "1st",
+    "year": "2024",
+    "navigateTo": "/pre-conference-school"
+  },
+  {
+    "preConferenceSchoolEventName": "Notification of Acceptance of Paper",
+    "isOpen": true,
+    "startMonth": "Nov",
+    "StartDate": "12th",
+    "year": "2024",
+    "navigateTo": "/call-for-papers"
+  },
+  {
+    "preConferenceSchoolEventName": "Camera-ready Version of Paper",
+    "isOpen": false,
+    "startMonth": "Nov",
+    "StartDate": "22nd",
+    "year": "2024",
+    "navigateTo": "/call-for-papers"
+  },
+  {
+    "preConferenceSchoolEventName": " Last Date for Early Bird registration for the conference",
+    "isOpen": true,
+    "startMonth": "Dec",
+    "StartDate": "31st",
+    "year": "2024",
+    "navigateTo": "/registration"
+  },
+  {
+    "preConferenceSchoolEventName": "Indo-Spanish CALDAM Pre-Conference School",
+    "isOpen": false,
+    "startMonth": "Feb",
+    "StartDate": "10",
+    "EndDate": "11th",
+    "year": "2026",
+    "navigateTo": "/pre-conference-school"
+  },
+  {
+    "preConferenceSchoolEventName": "CALDAM Conference",
+    "isOpen": false,
+    "startMonth": "Feb",
+    "StartDate": "13",
+    "EndDate": "15th",
+    "navigateTo": "/",
+    "year": "2026"
+  },
+  {
+    "preConferenceSchoolEventName": "Condolence Meeting in Memory of Professor Ajit Arvind Diwan",
+    "isOpen": false,
+    "startMonth": "Feb",
+    "StartDate": "13th",
+    "EndDate": "",
+    "navigateTo": " https://meet.google.com/fbh-fiqj-xfb",
+    "year": "2026",
+    "time":"6:45pm"
+  }
+]

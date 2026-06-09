@@ -1,0 +1,25 @@
+[
+    {
+        "name": "Wilfried Imrich",
+        "collegeName": "Montanuniversität Leoben · Department Mathematics and Information Technology",
+        "topic": "Graph products, prime factorizations, unique roots and cancellation",
+        "link":"http://imrich.at/",
+        "slideLink":"wilfred.pdf"
+    },
+    {
+      "name": "Manoj Changat",
+      "collegeName": "University of Kerala",
+      "topic":"Convex Geometries etermined by betweenness axioms",
+      "link": "http://www.keralauniversity.ac.in/dept/~mchangat",
+      "country": "India"
+    },
+    {
+        "name": "Wolfgang Mulzer",
+        "collegeName": "Freie Universität Berlin",
+        "link": "http://page.mi.fu-berlin.de/mulzer/",
+        "conferenceTitle": "",
+        "country": "Germany",
+        "topic":"Disk Graphs and Transmission Graphs -- Recent Developments",
+        "slideLink":"mulzer_dg.pdf"
+      }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "name": "Home",
+    "link": "/"
+  },
+  {
+    "name": "Committees",
+    "link": "/commitees"
+  },
+  {
+    "name": "Call For Papers",
+    "link": "/call-for-papers"
+  },
+  {
+    "name": "Invited Speakers",
+    "link": "/invitedspeakers"
+  },
+  
+  {
+    "name": "Registration",
+    "link": "/registration"
+  },
+  {
+    "name": "Pre-Conference School",
+    "link": "/pre-conference-school"
+  },
+  
+  {
+    "name": "Venue",
+    "link": "/venue"
+  },
+ 
+  
+  {
+    "name":"Gallery",
+    "link":"photos",
+    "item":"https://drive.google.com/drive/folders/1kbwsjY0EulOmKASoldrZQ1IHulwIB2p6?usp=sharing"
+  }
+ 
+]
