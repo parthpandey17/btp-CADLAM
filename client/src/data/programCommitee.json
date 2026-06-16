@@ -1,8 +1,128 @@
 [
   {
-    "name": "Bhawani Panda",
+    "name": "Ahmad Biniaz",
+    "collegeName": "University of Windsor, Canada",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Aida Abiad",
+    "collegeName": "Eindhoven University of Technology, Netherlands",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Andrzej Dudek",
+    "collegeName": "Western Michigan University, USA",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Aritra Banik",
+    "collegeName": "Indian Institute of Science Education and Research, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Arti Pandey",
+    "collegeName": "Indian Institute of Technology Ropar, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Bhawani Sankar Panda",
     "collegeName": "Indian Institute of Technology Delhi, India",
     "conferenceTitle": "Co-Chair",
+    "link": ""
+  },
+  {
+    "name": "Bodhayan Roy",
+    "collegeName": "Indian Institute of Technology Kharagpur, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Christopher Duffy",
+    "collegeName": "University of Melbourne, Australia",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Daya Gaur",
+    "collegeName": "University of Lethbridge, Canada",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Florent Foucaud",
+    "collegeName": "LIMOS, Université Clermont Auvergne, France",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Gautam K. Das",
+    "collegeName": "Indian Institute of Technology Guwahati, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Hee-Kap Ahn",
+    "collegeName": "POSTECH (Pohang University of Science and Technology), South Korea",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Indhumathi Raman",
+    "collegeName": "SRM Institute of Science and Technology, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Iztok Peterin",
+    "collegeName": "University of Maribor, Slovenia",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Jean-Lou De Carufel",
+    "collegeName": "University of Ottawa, Canada",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Karim Abu-Affash",
+    "collegeName": "Shamoon Academic College of Engineering, Israel",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Manoj Changat",
+    "collegeName": "University of Kerala, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Michiel Smid",
+    "collegeName": "Carleton University, Canada",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Neeldhara Misra",
+    "collegeName": "Indian Institute of Technology Gandhinagar, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Niranjan Balachandran",
+    "collegeName": "Indian Institute of Technology Bombay, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Paweł Rzążewski",
+    "collegeName": "Warsaw University of Technology, Poland",
+    "conferenceTitle": "Program Committee",
     "link": ""
   },
   {
@@ -10,5 +130,53 @@
     "collegeName": "Indian Institute of Technology Bhilai, India",
     "conferenceTitle": "Co-Chair",
     "link": "https://www.iitbhilai.ac.in/index.php?pid=rishi"
+  },
+  {
+    "name": "Rogers Mathew",
+    "collegeName": "Indian Institute of Technology Hyderabad, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Sagnik Sen",
+    "collegeName": "Indian Institute of Technology Dharwad, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Sandip Das",
+    "collegeName": "Indian Statistical Institute Kolkata, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Sasmita Barik",
+    "collegeName": "Indian Institute of Technology Bhubaneswar, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Sathish Govindarajan",
+    "collegeName": "Indian Institute of Science, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Sumit Ganguly",
+    "collegeName": "Indian Institute of Technology Kanpur, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Tarkeshwar Singh",
+    "collegeName": "Birla Institute of Technology and Science Goa, India",
+    "conferenceTitle": "Program Committee",
+    "link": ""
+  },
+  {
+    "name": "Wolfgang Mulzer",
+    "collegeName": "Freie Universität Berlin, Germany",
+    "conferenceTitle": "Program Committee",
+    "link": ""
   }
 ]

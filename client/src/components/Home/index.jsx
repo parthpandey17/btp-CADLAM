@@ -25,8 +25,7 @@ const HomePage = () => {
             CALDAMs, the proceedings of accepted papers of CALDAM 2027 will be
             published in the Lecture Notes in Computer Science by Springer.
             Also, selected papers of CALDAM 2027 are likely to be published in a
-            special issue of the Theoretical Computer Science (TCS) journal of
-            Elsevier and the Acta Informatica journal of Springer. As before, it
+            special issue of the Theoretical Computer Science (TCS) ,as in CALDAM 2026. As before, it
             is likely that Springer will sponsor awards for the best student
             presentations.
           </p>
@@ -38,7 +37,7 @@ const HomePage = () => {
             <h2 className="text-3xl font-semibold text-white sm:text-4xl">
               CALDAM 2027 Topics
             </h2>
-            <p className="font-light italic text-white">but not limited to</p>
+            <p className="font-light italic text-white">A set of topics within the scope of CALDAM includes (but is not limited to):</p>
           </div>
           <ul className="grid grid-cols-1 gap-3 text-black sm:grid-cols-2 lg:grid-cols-3">
             {CaldamTopics.map((topic) => (
