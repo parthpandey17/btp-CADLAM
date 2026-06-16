@@ -27,8 +27,13 @@ function Footer() {
         <div className={`lg:text-right `}>
           <div className={`mb-8 text-lg  `}>
             <h1 className="text-2xl font-bold">CONTACT</h1>
-            <p>{footerData["contactEmail"]}</p>
-            <p>{footerData["contactMobile"]}</p>
+           <a
+            href="mailto:caldam2027@lnmiit.ac.in"
+            className="text-blue-500 underline cursor-pointer"
+          >
+            caldam2027@lnmiit.ac.in
+          </a>
+          
           </div>
           <div className="text-lg">
             <h1 className="text-2xl font-bold">IMPORTANT LINKS</h1>

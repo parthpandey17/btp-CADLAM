@@ -8,10 +8,6 @@ export default function ProgramCommitee() {
         Program Committee
       </p>
 
-      <div className="rounded-xl bg-white p-6 text-lg font-medium text-slate-700">
-        To be updated soon.
-      </div>
-
       <div className="mt-8">
         <CardGrid data={programCommmitee} darkVariant={true} />
       </div>
